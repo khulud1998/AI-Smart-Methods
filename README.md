@@ -1,4 +1,4 @@
-# Install virtual box & Ros & ubuntu 18.04 
+# Internship Smart Methods AI
 # ![capture_1_0](https://user-images.githubusercontent.com/74243095/124775785-94612a80-df47-11eb-93f5-6496d09e88d4.jpg)
 
 ## 1.install Ros & ubunu 18.04
