@@ -19,3 +19,5 @@ Controlling the motors:
 
 to install Ros follow the steps [here](https://github.com/khulud1998/Task-one-Ros-ubuntu-arm-controlling-/new/main)
 
+
+to install Ros follow the steps [here ](1.2 install Ros : robotic operating system)
