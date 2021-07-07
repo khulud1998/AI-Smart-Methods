@@ -21,3 +21,5 @@ to install Ros follow the steps [here](https://github.com/khulud1998/Task-one-Ro
 
 
 to install Ros follow the steps [here ](1.2 install Ros : robotic operating system)
+to install Ros follow the steps [here ](https://github.com/khulud1998/Task-one-Ros-ubuntu-arm-controlling-/blob/main/1.2%20install%20Ros%20:%20robotic%20operating%20system)
+
