@@ -15,5 +15,5 @@
 ### 3.2 Real time video with face detection [Done ](https://github.com/khulud1998/AI-Smart-Methods/blob/main/3.2%20Real%20time%20video%20with%20face%20detection.md)
 
 ## Forth Task 
-### 4 Using SLAM map to lunch the navigation [Done ]()
+### 4 Using SLAM map to lunch the navigation [Done ](https://github.com/khulud1998/AI-Smart-Methods/blob/main/4.navigation%20on%20a%20%20SLAMmap%20.md)
 
