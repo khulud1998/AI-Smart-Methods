@@ -8,3 +8,12 @@
 
 
 ## 2 updating a map for ROS robots using simultaneous localization and mapping (SLAM) in the Gazebo environment [Done ](https://github.com/khulud1998/AI-Smart-Methods/blob/main/2.1.Simulation%2C%20Mapping%2C%20Controlling%20a%20turtlebot%20robot.md)
+
+
+## Third Task 
+### 3.1 Use OpenCV to make a real time face detection [Done ]()
+### 3.2 Real time video with face detection [Done ]()
+
+## Forth Task 
+### 4 Using SLAM map to lunch the navigation [Done ]()
+
