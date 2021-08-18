@@ -12,7 +12,7 @@
 
 ## Third Task 
 ### 3.1 Use OpenCV to make a real time face detection [Done ](https://github.com/khulud1998/AI-Smart-Methods/blob/main/3.1%20How%20to%20detect%20faces%20in%20image%20format%20using%20openCV%20and%20python.md)
-### 3.2 Real time video with face detection [Done ]()
+### 3.2 Real time video with face detection [Done ](https://github.com/khulud1998/AI-Smart-Methods/blob/main/3.2%20Real%20time%20video%20with%20face%20detection.md)
 
 ## Forth Task 
 ### 4 Using SLAM map to lunch the navigation [Done ]()
